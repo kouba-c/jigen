@@ -1,0 +1,3 @@
+module Jigen
+  VERSION = "0.0.1"
+end
